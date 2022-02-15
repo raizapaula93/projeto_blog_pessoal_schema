@@ -1,6 +1,19 @@
 # Atividade DER + Banco de Dados – Blog Pessoal. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 **1.** Construa o Diagrama de Entidade Relacionamento (DER) do projeto Blog Pessoal no MySQL Workbench conforme o modelo abaixo:
 
 
